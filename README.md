@@ -1,4 +1,4 @@
-# The-Pasta-Nation
+# The Pasta Nation
 
 Welcome to our delightful game built with Phaser 3 for game development and Vite for bundling, enabling fast, modern JavaScript/TypeScript development with hot-reloading support. 
 Enjoy a quick and efficient development workflow with hot-reloading, so you can see changes in real-time without losing progress. Our setup includes scripts to generate production-ready builds, so you can share your creations with ease.
